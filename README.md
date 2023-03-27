@@ -20,7 +20,45 @@ The Tableau generated worksheets are below:
 
 ### Top Starting Stations
 
-![image](https://user-images.githubusercontent.com/119640010/228038373-7057ff2c-2bae-4fac-8483-67ed71aebbf1.png)
+![image](https://user-images.githubusercontent.com/119640010/228039069-aa210343-3d49-4f39-992e-4f0f30867330.png)
+
 
 ### Top Starting Stations by Number of Rides
+
+![image](https://user-images.githubusercontent.com/119640010/228039224-00f73bfd-a477-4b61-9922-0f180834520c.png)
+
+### Trip Duration 
+
+![image](https://user-images.githubusercontent.com/119640010/228039516-602ff1a5-565c-4201-9a66-64aaa2a57a4f.png)
+
+### Trip Duration by Gender
+
+![image](https://user-images.githubusercontent.com/119640010/228039701-69ea1c89-c2cb-4c3f-938d-5181b7a89144.png)
+
+### Number of Rides per Weekday
+
+![image](https://user-images.githubusercontent.com/119640010/228039986-31d3432a-3c47-41d7-aeef-ac8abc40521e.png)
+
+### Heatmap of Trip Time of the Day vs. Weekday
+
+![image](https://user-images.githubusercontent.com/119640010/228040535-580df334-c5d9-491a-9c71-eec821ce56a0.png)
+
+### Hour of Start Time vs. Gender vs. Weekday
+
+![image](https://user-images.githubusercontent.com/119640010/228040739-51f639d3-c3e0-4574-b01f-17531fd431cc.png)
+
+### Heatmap of User Type vs. Gender vs. Day of the Week
+
+![image](https://user-images.githubusercontent.com/119640010/228040983-26346098-b545-463d-9e3a-e9f01821b3e9.png)
+
+### Top Users by Age and Ride Duration
+
+![image](https://user-images.githubusercontent.com/119640010/228041194-5030f966-ad84-4590-bce7-a1b36f0b3434.png)
+
+## Summary
+
+
+
+
+
 
