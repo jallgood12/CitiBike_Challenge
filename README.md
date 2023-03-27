@@ -18,3 +18,9 @@ The Tableau generated worksheets are below:
 
 ![image](https://user-images.githubusercontent.com/119640010/228034275-37cd852d-1090-410d-9a3d-b6145a05e81d.png)
 
+### Top Starting Stations
+
+![image](https://user-images.githubusercontent.com/119640010/228038373-7057ff2c-2bae-4fac-8483-67ed71aebbf1.png)
+
+### Top Starting Stations by Number of Rides
+
