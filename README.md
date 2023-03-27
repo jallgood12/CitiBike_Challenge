@@ -8,5 +8,13 @@ Kate is a tourist visiting NewYork. She used Citibike while in New York and was 
 
 Before deciding on whther to invest in Des Moines we will present a better look at the data using the public data available from Citibike and analyze it with Tableau.
 
-##Results
+## Results
+
+We have recieved the data in the form of a CSV file. It includes data for the month of August. 2.3 million records with information about the ride duratio, start point, and end point. Basic demographics such as gender and age are also included, but no financial data is included.
+
+The Tableau generated worksheets are below:
+
+### Basic data
+
+![image](https://user-images.githubusercontent.com/119640010/228034275-37cd852d-1090-410d-9a3d-b6145a05e81d.png)
 
