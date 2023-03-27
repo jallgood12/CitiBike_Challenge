@@ -57,7 +57,11 @@ The Tableau generated worksheets are below:
 
 ## Summary
 
+After sorting through the data and visualizing it with Tablesu we can clearly see that CitiBike is a great investment for New York City. However, will it be as successful in Des Moines?
 
+The population difference between the two cities is significantly different. New York City has a population of 8,253,213 while Des Moines has a population of just 212,312. That makes the New York City population roughly 40 times bigger than Des Moines population. Based on the data above we can see that New York City has about 2.3 million rides per month. If we apply the same math to Des Moines we are only looking at about 60,305 rides per month. 
+
+Another thing to consider is the size comparison of the two cities. Des Moines is much smaller making commute times more manageble than New York. This would make the demand for bikeshariong less. People in Des Moines may not have the need or save much money on alternatives modes of transportation due to shorter commute times. 
 
 
 
